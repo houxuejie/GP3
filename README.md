@@ -6,12 +6,19 @@ The python folder contains the Python code for the four algorithms.
 The maltlab folder contains the maltlab code for the four algorithms,and because the MATLAB code is too large to upload completely, only the sioux Falls road network is displayed in this folder.If you want complete data and codes, please contact 201821060832@std.uestc.edu.cn.
 # Dependencies
 Python 3.6+
+
 NumPy
+
 SciPy
+
 Pandas
+
 NetworkX
+
 CVXOPT
+
 matlab 2018a
+
 # Description
  - covarianceMatrix.m：method of generating covariance matrix
  - func_GP3.m and func_GP3_accelerate.m:two implementation methods of GP3
